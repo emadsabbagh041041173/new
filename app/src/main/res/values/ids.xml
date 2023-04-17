@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_view" type="id">123</item>
+    <item name="button" type="id">567</item>
+    <item name="imageButton3" type="id">8910</item>
+    <item name="checkBox" type="id">141516</item>
+    <item name="radioButton" type="id">202122</item>
+    <item name="button2" type="id">252627</item>
+    <item name="editTextTextPersonName" type="id">myname</item>
+    <item name="editTextTextPersonName2" type="id">your name</item>
+    <item name="editTextTextPersonName3" type="id">hids name</item>
+</resources>
